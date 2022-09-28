@@ -5,3 +5,4 @@ foreach ($elem as $marque) {
 	echo "Vente de : " . $elem . "<br/>";
 }
 ?>
+
